@@ -1,4 +1,4 @@
-const data = {
+const datab = {
   products: [
     {
       name: 'Nike Slim',
@@ -39,4 +39,4 @@ const data = {
   ],
 };
 
-export default data;
+export default datab;
