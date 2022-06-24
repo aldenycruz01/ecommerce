@@ -18,7 +18,7 @@ const data = {
       category: 'blusa',
       image: '/imagens/p2.jpg',
       price: 90,
-      countInStock: 20,
+      countInStock: 0,
       brand: 'Adidas',
       rating: 4.0,
       numRewies: 10,
